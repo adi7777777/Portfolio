@@ -27,7 +27,7 @@ export const projects = [
       'Keeping itinerary state in sync across nested form steps while avoiding unnecessary re-renders.',
     learned:
       'Structuring component communication cleanly (lifting state up, passing callbacks down) made the multi-step flow much easier to reason about than it looked at first.',
-    github: 'https://github.com/ashrith-rao/itinerary-planner',
+    github: 'https://github.com/adi7777777/itinerary-planner',
     demo: 'https://itinerary-planner.demo',
   },
   
@@ -53,7 +53,7 @@ export const projects = [
       'Implementing interactive patterns (gallery, tabs) with only CSS while keeping accessibility in mind.',
     learned:
       'How far semantic HTML and CSS can go to build real-world, responsive sites with good UX and performance.',
-    github: 'https://github.com/ashrith-rao/beauty-saloon',
+    github: 'https://github.com/adi7777777/beauty-saloon',
     demo: 'https://beauty-saloon.demo',
   },
 ]

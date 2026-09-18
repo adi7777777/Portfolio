@@ -47,9 +47,9 @@ export default function Contact() {
             free to reach out directly, or use the form.
           </p>
           <div className="contact-links">
-            <a className="contact-link" href="mailto:ashrith.rao@email.com">
+            <a className="contact-link" href="mailto:raoashrith16601@gmail.com">
               <Mail size={18} />
-              ashrith.rao@email.com
+              raoashrith16601@gmail.com
             </a>
             <a
               className="contact-link"
@@ -62,7 +62,7 @@ export default function Contact() {
             </a>
             <a
               className="contact-link"
-              href="https://github.com/ashrith-rao"
+              href="https://github.com/adi7777777"
               target="_blank"
               rel="noreferrer"
             >

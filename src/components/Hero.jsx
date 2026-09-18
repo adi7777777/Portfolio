@@ -116,13 +116,13 @@ export default function Hero() {
             </a>
           </div>
           <div className="hero-socials">
-            <a href="https://github.com/ashrith-rao" target="_blank" rel="noreferrer" aria-label="GitHub profile">
+            <a href="https://github.com/adi7777777" target="_blank" rel="noreferrer" aria-label="GitHub profile">
               <Github size={18} />
             </a>
             <a href="https://linkedin.com/in/ashrith-rao" target="_blank" rel="noreferrer" aria-label="LinkedIn profile">
               <Linkedin size={18} />
             </a>
-            <a href="mailto:ashrith.rao@email.com" aria-label="Send an email">
+            <a href="mailto:raoashrith16601@gmail.com" aria-label="Send an email">
               <Mail size={18} />
             </a>
           </div>

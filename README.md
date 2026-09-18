@@ -52,7 +52,7 @@ public/
 
 - **Resume**: add your PDF at `public/resume.pdf`. The "Download Resume" buttons in
   `Navbar.jsx` and `Hero.jsx` already point to `/resume.pdf`.
-- **GitHub / LinkedIn / Email**: search for `ashrith-rao` and `ashrith.rao@email.com`
+- **GitHub / LinkedIn / Email**: search for `ashrith-rao` and `raoashrith16601@gmail.com`
   across `Hero.jsx`, `Contact.jsx`, and `Footer.jsx`, and replace with your real links.
 - **Experience**: edit the `EXPERIENCE` array in `Experience.jsx` — company name, dates,
   and bullet points.
