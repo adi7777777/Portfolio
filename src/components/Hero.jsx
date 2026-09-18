@@ -110,7 +110,7 @@ export default function Hero() {
               View Projects
               <ArrowRight size={16} />
             </button>
-            <a href="/resume.pdf" download className="btn btn-secondary">
+            <a href="/pdf/resume.pdf" download className="btn btn-secondary">
               Download Resume
               <Download size={16} />
             </a>
@@ -119,7 +119,7 @@ export default function Hero() {
             <a href="https://github.com/adi7777777" target="_blank" rel="noreferrer" aria-label="GitHub profile">
               <Github size={18} />
             </a>
-            <a href="https://linkedin.com/in/ashrith-rao" target="_blank" rel="noreferrer" aria-label="LinkedIn profile">
+            <a href="https://www.linkedin.com/in/ashrith-rao-647123207/" target="_blank" rel="noreferrer" aria-label="LinkedIn profile">
               <Linkedin size={18} />
             </a>
             <a href="mailto:raoashrith16601@gmail.com" aria-label="Send an email">

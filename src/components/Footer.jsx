@@ -13,7 +13,7 @@ export default function Footer() {
           <a href="https://github.com/adi7777777" target="_blank" rel="noreferrer" aria-label="GitHub">
             <Github size={18} />
           </a>
-          <a href="https://linkedin.com/in/ashrith-rao" target="_blank" rel="noreferrer" aria-label="LinkedIn">
+          <a href="https://www.linkedin.com/in/ashrith-rao-647123207/" target="_blank" rel="noreferrer" aria-label="LinkedIn">
             <Linkedin size={18} />
           </a>
           <a href="mailto:raoashrith16601@gmail.com" aria-label="Email">

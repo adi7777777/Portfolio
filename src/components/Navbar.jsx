@@ -72,7 +72,7 @@ export default function Navbar() {
         </nav>
 
         <div className="nav-cta">
-          <a href="/resume.pdf" download className="btn btn-secondary btn-sm">
+          <a href="/pdf/resume.pdf" download className="btn btn-secondary btn-sm">
             <Download size={15} />
             Resume
           </a>

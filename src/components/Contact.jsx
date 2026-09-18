@@ -53,7 +53,7 @@ export default function Contact() {
             </a>
             <a
               className="contact-link"
-              href="https://linkedin.com/in/ashrith-rao"
+              href="https://www.linkedin.com/in/ashrith-rao-647123207/"
               target="_blank"
               rel="noreferrer"
             >
@@ -67,7 +67,7 @@ export default function Contact() {
               rel="noreferrer"
             >
               <Github size={18} />
-              github.com/ashrith-rao
+              https://github.com/adi7777777
             </a>
           </div>
         </div>
